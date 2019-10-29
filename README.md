@@ -1,1 +1,1 @@
-# Alexa-Skill-TacoQuiz-HackGT-
+# Alexa-Skill-TacoQuiz-HackGT
