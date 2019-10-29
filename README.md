@@ -48,6 +48,9 @@ Created a complete control flow in an environment in which none of us have exper
 ### What We Learned
 Since having only 36 hours to design an application is very time-constrained, we learned to set up milestones at every stage in order to know that we were on the right track. In addition, we also learned to cooperate with one another to reach a goal that is promising and meaningful.
 
+### Result
+The skill that we created has passed Amazon certification process and is published to the skill store. 
+
 ### What's Next for TacoQuiz
 We will host the data to the real database as the demand of the consumers for this Alexa Skill becomes larger and larger. Therefore, hosting the data to the real database not only enables us to include more people, but also encourage a learning atmosphere. In addition, we hope that we can deploy this function to our daily devices, such as phones, Amazon Echo, etc., so customers can have easy access to our handy function. Moreover, in the future, we hope that customers can add their own custom word lists to Alexa using AWS, and Alexa can test them based on the lists given.
 
