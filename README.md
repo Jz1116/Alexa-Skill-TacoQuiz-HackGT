@@ -1,4 +1,4 @@
-# Alexa Skill TacoQuiz (HackGT)
+# Alexa Skill TacoQuiz (HackGT6)
 
 **Interactive Language Learning Alexa Skill for all Passionate SSL(Spanish as Second Language) Students**
 
